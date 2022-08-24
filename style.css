@@ -1,0 +1,62 @@
+.tarjeta{
+    border: solid #3f262628;
+    height: 300px;
+    width: 700px;
+    margin: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: "roboto" sans-serif;
+}
+
+.foto{
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+    background-color: cornflowerblue;
+    padding: 2px;
+    margin-left: 20px;
+    margin-top: 40px;
+    
+}
+
+.icono1{
+    height: 25px;
+    width: 15px;
+    margin-left: 20px;
+}
+
+.icono2{
+    height: 20px;
+    width: 20px;
+    margin-top: 1px;
+    margin-left: 20px;
+    
+}
+
+.container1{    
+    background-color: rgb(30, 129, 241);
+    display: flex;
+    height: 80px;
+    
+}
+
+.container2{    
+    background-color: white;
+    display: flex;
+    
+}
+h1{
+    margin-left: 20px;
+    margin-bottom: 1px;
+    margin-top: 30px;
+}
+
+h3{
+    margin: 1px;
+}
+.p1,.p2{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 20px;
+}
